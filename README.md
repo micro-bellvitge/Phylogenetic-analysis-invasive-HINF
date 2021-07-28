@@ -34,10 +34,10 @@ loadfonts(device = "win", quiet = TRUE)
 ## 1.Load data
 ```{r}
 ##Define the working directory
-setwd("C:/Users/anna_/IDIBELL/Gonzalez Diaz, Aida - RECERCA/PROYECTOS/Haemophilus/4. Invasive H. influenzae (2014-2019)/WGS/18_HINF_INVASIVAS/AnalisisClados/R")
+setwd("path/to/file")
 
 ##Load the tree file obtained using Parsnp from the Harvest suite (.nwk file)
-tree<-read.tree("18_HINF_Invasivas-216-parsnp.nwk")
+tree<-read.tree("treefile.nwk")
 ```
 
 ## 2.Tree and metadata
