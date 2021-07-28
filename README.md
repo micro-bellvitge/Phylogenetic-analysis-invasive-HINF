@@ -11,9 +11,7 @@ We used R studio and ggplot2 and ggtree packages to observe the phylogenetic dis
 Anna Carrera-Salinas, Aida González-Díaz, Laura Calatayud, Julieta Mercado-Maza,
   Carmen Puig, Dàmaris Berbel, Jordi Càmara, Fe Tubau, Imma Grau, M Ángeles Domínguez,
   Carmen Ardanuy, Sara Martí
-date: '2021-07-22'
-output:
-  html_document: default
+
 ---
 
 ```{r setup, include=FALSE}
