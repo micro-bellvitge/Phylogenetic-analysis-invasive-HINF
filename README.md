@@ -14,15 +14,6 @@ Authors: Anna Carrera-Salinas, Aida González-Díaz, Laura Calatayud, Julieta Me
 
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(
-	echo = TRUE,
-	message = TRUE,
-	warning = FALSE
-)
-```
-
-
 ```{r}
 library(ggplot2)
 library(ggtree)
