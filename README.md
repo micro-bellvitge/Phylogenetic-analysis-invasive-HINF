@@ -99,4 +99,4 @@ tree_metadata<-gheatmap(p3, heatmapData, offset = 2,
 
 
 ## Figure 4.Assembly-based core-SNP phylogenetic tree and clade distribution of nontypeable *H. influenzae*
-<img src="Figure 4.png">
+<img src="Figure4.png">
